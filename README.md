@@ -1,4 +1,5 @@
 # DoctorsProgram
+Authors: Ester Moiseyev, Yogev Tamir.
 This program is made in order to help our doctors.
 Each doctor can sign in to this program and take care of the patients.
 In this program the doctor can enter the ID of the patient and enter the patient details, also the doctor can import the
